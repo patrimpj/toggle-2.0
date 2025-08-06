@@ -1,21 +1,30 @@
-# Glassy Animated Toggle for Flutter
+# 🔘 Toggle 2.0
 
-A glassmorphic, animated, draggable toggle widget — featuring:
-- Snake‑style toggle motion
-- Smooth zoom‑out → move → zoom‑in animation
-- Rounded rectangle toggle handle with full frosted glass look
-- No shadows or glow
+An Android app built with **Kotlin/Java** and **XML UI** to demonstrate a simple toggle button functionality.  
+Useful for beginners learning Android development or UI interaction.
 
-## 🧪 Demo
+## 📸 Screenshots
 
-*(Add a GIF or image showcasing the toggle in action)*
+| Toggle OFF                       | Toggle ON                       |
+|----------------------------------|---------------------------------|
+| ![Toggle OFF](screenshots/1.png) | ![Toggle ON](screenshots/2.png) |
 
-## 🚀 Usage
+---
 
-```dart
-import 'package:toggle_2_0/custom_toggle.dart';
+## ✨ Features
 
-CustomToggle(
-  initialValue: false,
-  onChanged: (val) { print(val); },
-)
+- Toggle ON/OFF functionality
+- Clean and minimal user interface
+- Instant UI feedback with animations (if any)
+- Light and dark mode support (if implemented)
+
+---
+
+## 🚀 Getting Started
+
+To run this app locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/souravkaushik-dev/toggle-2.0.git
+   cd toggle-2.0
