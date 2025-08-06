@@ -7,7 +7,7 @@ Useful for beginners learning Android development or UI interaction.
 
 | Toggle OFF                       | Toggle ON                       |
 |----------------------------------|---------------------------------|
-| ![Toggle OFF](screenshots/1.png) | ![Toggle ON](screenshots/2.png) |
+| ![Toggle OFF](screenshots/2.png) | ![Toggle ON](screenshots/1.png) |
 
 ---
 
